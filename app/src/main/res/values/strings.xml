@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_new_task">Criar tarefa</string>
+    <string name="label_description_new_task">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Excluir</string>
+    <string name="label_you_dont_have_tasks">Ops! Você não possui nenhuma tarefa!</string>
+</resources>
